@@ -7,3 +7,6 @@ Solutions to rosalind problems
 
 **orf**: Find all possible peptides that can be transcribed from a DNA sequence (6 open reading frames) 
 [Problem on Rosalind](http://rosalind.info/problems/orf/)
+
+**lcsm**: Find the largest substring common to all DNA sequences given in fasta format
+[Problem on Rosalind](http://rosalind.info/problems/lcsm/)
